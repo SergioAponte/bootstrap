@@ -1,0 +1,25 @@
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing:border-box
+}
+
+body{background-image: url(https://images.pexels.com/photos/669584/pexels-photo-669584.jpeg?auto=compress&cs=tinysrgb&w=1600);
+          background-repeat: no-repeat;background-size: cover;
+}
+
+
+h1{
+          display: flex;justify-content: center;align-items: center;color: black;
+}
+
+img{
+          width: 160px;height: 115px;
+}
+
+.card img{
+          width: 288px; height: 200px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+}
