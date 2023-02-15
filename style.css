@@ -23,3 +23,11 @@ img{
           justify-content: center;
           align-items: center;
 }
+
+.arreglo{background-color: rgba(250, 235, 215, 0.712);
+}
+
+.container3{display: flex;justify-content: center;}
+hr{
+          border: 1px solid black;
+}
